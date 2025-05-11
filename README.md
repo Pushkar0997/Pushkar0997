@@ -37,7 +37,9 @@
 
 ![3D Skyline GIF](./pushkar-skyline.gif)
 
-> View full interactive skyline here: [skyline.github.com/Pushkar0997](https://skyline.github.com/Pushkar0997)
+> View full interactive skyline here: [skyline.github.com/PushkarKumar-dev](https://skyline.github.com/Pushkar0997)
+![3D Skyline GIF](https://i.imgur.com/yourimage.gif)
+
 
 ---
 
