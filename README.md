@@ -28,8 +28,15 @@
 
 ### 📊 GitHub Stats
 
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushkar0997&show_icons=true&theme=radical)
+![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushkar0997&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar0997&layout=compact&theme=radical)
+
+---
+
+
+### 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pushkar0997\&theme=tokyo-night)
 
 ---
 
