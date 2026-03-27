@@ -8,25 +8,24 @@
 
 - 🎓 **B.Tech Computer Science** student at **MIT ADT University**
 - ⚛️ Focused on **Quantum Computing**, **Quantum Machine Learning**, and **Quantum Deep Reinforcement Learning**
-- 🔬 **Published** in Computer Vision (DenseNet-169-based plant disease detection for agriculture)
-- 🧠 Building projects around **QML**, **AI agents**, **smart devices**, and authoring a **Quantum Computing book**
-- 📚 Learning through **CDAC**, **IIT Roorkee**, and national/international quantum programs & workshops
-- 🌱 Interested in **applied research**, **open science**, and **developer communities**
-- 💡 I like combining solid theory with hands-on engineering to create things people can actually use
+- 🔬 Research work in **Computer Vision** (DenseNet-169-based plant disease detection) — **presented**, currently in the research pipeline
+- 🧠 Hands-on projects in **QML**, **AI agents**, and **smart systems** (Grover’s Algorithm, Veritas AI v2, Smart Dustbin, etc.)
+- 📚 Learning Quantum Computing through programs with **CDAC**, **IIT Roorkee**, and national quantum workshops
+- 🌱 Interested in **applied research**, **open-source contributions**, and **technical communities**
+- 💡 I like combining strong theory with engineering to build things that people can actually use
 
 ---
 
 ## 🧭 About Me
 
-I am a computer science undergraduate who enjoys working at the intersection of **mathematics, physics, and computer science**.  
-My main goal right now is to **build strong foundations in quantum information** and **use AI/ML as a practical tool** to solve real-world problems in domains like agriculture, sustainability, and intelligent systems.
+I am a computer science undergraduate who enjoys working where **physics, math, and computer science** meet.  
+Right now I’m focused on building a deep understanding of **quantum information** while using **AI/ML** as a practical toolkit for solving problems in areas like agriculture, automation, and intelligent systems.
 
-What I enjoy the most:
-- Designing and understanding **quantum algorithms** and circuits.
-- Implementing **ML models end-to-end**: data → model → deployment.
-- Turning ideas from research papers into **working prototypes**.
-- Participating in **challenges, workshops, and hackathons** to learn with the community.
-- Sharing knowledge through content, talks, and long-form writing (like my quantum computing book project).
+I like to:
+- Design and reason about **quantum algorithms** (e.g., Grover’s search) and their circuit-level implementation.
+- Build **end-to-end ML workflows**: data → model → evaluation → deployment.
+- Convert ideas from **papers, workshops, and courses** into working prototypes.
+- Collaborate through **open-source contributions**, PRs, and technical communities.
 
 ---
 
@@ -48,7 +47,7 @@ What I enjoy the most:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Development, Tools & Hardware
+### Dev, Tools & Hardware
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,68 +58,62 @@ What I enjoy the most:
 
 ---
 
-## 🚀 Featured Work & Interests
+## 🚀 Current Focus
 
 ### ⚛️ Quantum Computing & QML
 
-- Implementing **Grover’s Algorithm** and other quantum circuits in **Qiskit**, exploring how quantum speedups work in practice.
-- Experimenting with **quantum-enhanced ML** ideas: combining parameterized quantum circuits with classical optimizers.
-- Participating in **workshops, bootcamps, and challenges** focused on quantum technologies, and applying those learnings in small, focused projects.
-- Writing and structuring a **Quantum Computing book** aimed at students who are strong in CS but new to quantum concepts.
+- Implementing **Grover’s Algorithm** and other circuits in **Qiskit**, with an emphasis on understanding how and why quantum speedups occur.
+- Exploring **quantum–classical hybrid workflows**, where parameterized quantum circuits are optimized by classical ML techniques.
+- Participating in **workshops, bootcamps, and challenges** to stay close to what’s actually happening in the quantum ecosystem.
 
-### 🧠 AI, ML & Computer Vision
+### 🧠 AI / ML & Computer Vision
 
-- **Plant Disease Detection (DenseNet-169):**  
-  Built and worked on a model using DenseNet-169 for early disease detection in plants, with the goal of supporting **precision agriculture** and improving yield and farmer decision-making.
-- Exploring **image classification and detection** tasks with CNNs and transfer learning.
-- Building practical ML projects like **smart systems** and **AI agents** that automate small but meaningful tasks.
+- **Plant Disease Detection (DenseNet-169)**  
+  Built a DenseNet-169–based pipeline for classifying plant leaf diseases to support early detection and decision-making for agriculture.  
+  The work has been **presented** (not yet formally published).
 
-### 🤖 Embedded & Smart Systems
+- **Veritas AI v2 (AI/ML Project)**  
+  Working on an AI-focused project (Veritas AI v2) involving practical ML workflows, experimentation, and model improvement in real-world-like scenarios.
 
-- **Smart Dustbin project:**  
-  Using sensors, microcontrollers (like Arduino), and basic ML logic to build an automated and more hygienic waste management system.
-- Experimenting with the intersection of **hardware + ML**, especially where small devices can improve everyday experiences.
+### 🤖 Smart Systems & Automation
 
----
+- **Smart Dustbin**  
+  Designed an automated dustbin system using sensors and microcontrollers with basic logic for contactless and more hygienic waste handling.
 
-## 📚 Currently Learning & Exploring
-
-- **Quantum Deep Reinforcement Learning:**  
-  Understanding how reinforcement learning principles might extend into the quantum domain, and what a hybrid quantum–classical RL agent could look like.
-- **Advanced ML Architectures:**  
-  Transformers and attention-based models, more efficient CNNs, and ways to make models lighter while keeping performance strong.
-- **Software Engineering Best Practices:**  
-  Writing more maintainable code, using version control effectively, documenting projects, and following good practices for open-source contributions.
-- **Scientific Communication:**  
-  Turning complex technical topics into content that is accessible to students, developers, and a broader audience.
+- **AI Agents & Automation**  
+  Small agents and tools in Python that automate repetitive tasks, run experiments, or interact with APIs and environments.
 
 ---
 
-## 🔗 Selected Projects (to be updated with exact repos)
+## 🔬 Selected Repositories
 
-> Replace the `#` links below with your actual repository links once you’re ready.
+> Replace `COMING_SOON` with your actual repository links.
 
-- 🎯 **Grover’s Algorithm with Qiskit**  
-  A Jupyter-notebook-based implementation of Grover’s search algorithm, demonstrating quantum amplitude amplification and search speedup.  
-  `Repo:` [Coming soon](#)
+- ⚛️ **Grover’s Algorithm with Qiskit**  
+  Implementation of Grover’s search algorithm using Qiskit, with clear circuit diagrams and explanation of amplitude amplification.  
+  `Repo:` [Grover-Qiskit](https://github.com/Pushkar0997/Grover-s_Algorithm_Implementation)
+
+- 🤖 **Veritas AI v2**  
+  An AI/ML project exploring model training, evaluation, and experimentation in realistic workflows.  
+  `Repo:` [Veritas-AI-v2](https://github.com/Pushkar0997/veritas_ai_v2)
 
 - 🌿 **Plant Disease Detection (DenseNet-169)**  
-  A deep-learning pipeline using DenseNet-169 for classifying plant leaf diseases, aimed at assisting farmers and agritech solutions.  
-  `Repo:` [Coming soon](#)
+  Deep-learning approach for leaf disease classification using DenseNet-169, contributing to research in precision agriculture.  
+  `Repo:` [Plant-Disease-Detection-DenseNet169](COMING_SOON)
 
 - 🗑️ **Smart Dustbin System**  
-  Microcontroller + sensors + basic ML logic to automate waste detection and disposal, with a focus on clean and contactless operation.  
-  `Repo:` [Coming soon](#)
+  Embedded system project combining sensors and microcontroller logic to automate waste detection and disposal.  
+  `Repo:` [Smart-Dustbin](COMING_SOON)
 
-- 🤖 **AI Agents & Automation Experiments**  
-  Small agents and tools built in Python that automate repetitive tasks, explore planning, and interact with APIs and environments.  
-  `Repo:` [Coming soon](#)
-
-You can also explore more of my work here: [https://github.com/Pushkar0997](https://github.com/Pushkar0997)
+You can find more projects here: [https://github.com/Pushkar0997](https://github.com/Pushkar0997)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Commits + Contributions)
+
+> Instead of only showing commits, I care about **pull requests**, **issues**, and contributions to **other repositories**.  
+
+For now (until I fully migrate stats to GitHub Actions), here’s a lightweight stats view:
 
 <p align="center">
   <img 
@@ -129,16 +122,21 @@ You can also explore more of my work here: [https://github.com/Pushkar0997](http
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar0997&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
+<!--
+🧪 NEXT STEP (optional, better stats):
+
+If you want deeper stats (PRs, issues, reviews, etc.), set up:
+- lowlighter/metrics → can show:
+  - PRs opened, issues opened, discussion activity
+  - top languages with an in-depth algorithm
+  - contributions to other people's repositories
+
+Docs: https://github.com/lowlighter/metrics
+-->
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img 
@@ -162,9 +160,9 @@ You can also explore more of my work here: [https://github.com/Pushkar0997](http
 ## 🌐 Connect & Collaborate
 
 I’m always open to:
-- Collaborating on **quantum**, **ML**, or **research-oriented** projects.
-- Discussing ideas around **QML**, **computer vision**, or **smart systems**.
-- Learning from and contributing to **open-source** and **student communities**.
+- Collaborating on **quantum computing**, **QML**, or **ML research** projects.
+- Contributing to **open-source** and learning through real-world PRs.
+- Talking about ideas at the intersection of **physics, AI, and real-world systems**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pushkar-kumar-aaa96a301">
