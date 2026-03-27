@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Stats
 
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushkar0997&show_icons=true&theme=tokyonight)
+![Pushkar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pushkar0997&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar0997&layout=compact&theme=radical)
 
 ---
