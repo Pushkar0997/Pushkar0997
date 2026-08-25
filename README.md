@@ -11,7 +11,7 @@
 - 🔬 **QIntern 2026** with QWorld and the **Moderna challenge** in the **WISER Global Quantum+AI Program** — both completed
 - 🧠 Building **Quantum Arcade**, an interactive way to learn quantum computing, and **RepoBridge**, grounded repository context for LLMs
 - 📊 Every project below says what can be checked — including the ones where the answer is "not yet"
-- 🌐 Full case studies with the limitations included → **[my portfolio](https://portfolio.pushkarkumar0997.workers.dev/)**
+- 🌐 Full case studies with the limitations included → **[my portfolio](https://pushkarkumar.me)**
 
 ---
 
@@ -105,7 +105,7 @@ Ten quantum algorithms as runnable notebooks — Bell states, teleportation, Deu
 
 `Repo:` [quantum-toybox](https://github.com/Pushkar0997/quantum-toybox) · [Grover's Algorithm](https://github.com/Pushkar0997/Grover-s_Algorithm_Implementation)
 
-More at [github.com/Pushkar0997](https://github.com/Pushkar0997) · Full case studies at [my portfolio](https://portfolio.pushkarkumar0997.workers.dev/)
+More at [github.com/Pushkar0997](https://github.com/Pushkar0997) · Full case studies at [my portfolio](https://pushkarkumar.me)
 
 ---
 
@@ -138,7 +138,7 @@ I'm always open to:
 - Talking about ideas at the intersection of **physics, AI, and real-world systems**
 
 <p align="center">
-  <a href="https://portfolio.pushkarkumar0997.workers.dev/">
+  <a href="https://pushkarkumar.me">
     <img src="https://img.shields.io/badge/Portfolio-16211d?style=for-the-badge&logo=astro&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pushkar-kumar-aaa96a301">
